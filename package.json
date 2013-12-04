@@ -8,8 +8,6 @@
   },
   "dependencies": {
     "express": "~3.3.4",
-    "bson": "0.2.3",
-    "stream-counter": "0.2.0"
   },
   "engines": {
     "node": "0.10.x",
